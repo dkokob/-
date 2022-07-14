@@ -1,7 +1,7 @@
 Console.Write("Введите числo");
 int a = Convert.ToInt32(Console.ReadLine()); 
-result = a % 2
-if(resilt = 0)
+int result = a % 2
+if(resilt == 0)
 {
   Console.Write("Yes");
 }
